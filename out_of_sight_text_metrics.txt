@@ -1,5 +1,0 @@
-input_file=out_of_sight.txt
-N_words=110
-V_unique=77
-lexical_diversity=0.7000000000
-trigram_repetition=0.0000000000

@@ -1,5 +1,0 @@
-input_file=shape_of_slavery_extracted_text.txt
-N_words=1227
-V_unique=506
-lexical_diversity=0.4123879381
-trigram_repetition=0.0383673469

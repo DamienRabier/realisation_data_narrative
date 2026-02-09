@@ -1,5 +1,0 @@
-input_file=infinity_extracted_text.txt
-N_words=1913
-V_unique=660
-lexical_diversity=0.3450078411
-trigram_repetition=0.0601779173

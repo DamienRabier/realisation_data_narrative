@@ -1,5 +1,0 @@
-input_file=losing_ground_extracted_text.txt
-N_words=89
-V_unique=75
-lexical_diversity=0.8426966292
-trigram_repetition=0.0000000000

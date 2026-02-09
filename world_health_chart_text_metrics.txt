@@ -1,5 +1,0 @@
-input_file=world_health_chart_extracted_text.txt
-N_words=198
-V_unique=111
-lexical_diversity=0.5606060606
-trigram_repetition=0.0204081633

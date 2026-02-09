@@ -1,5 +1,0 @@
-input_file=energy_extracted_text.txt
-N_words=765
-V_unique=501
-lexical_diversity=0.6549019608
-trigram_repetition=0.0235910878

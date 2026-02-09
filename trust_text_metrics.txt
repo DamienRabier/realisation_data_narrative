@@ -1,5 +1,0 @@
-input_file=trust_extracted_text.txt
-N_words=3344
-V_unique=850
-lexical_diversity=0.2541866029
-trigram_repetition=0.0745062837

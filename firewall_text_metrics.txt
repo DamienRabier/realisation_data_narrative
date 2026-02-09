@@ -1,5 +1,0 @@
-input_file=firewall_extracted_text.txt
-N_words=938
-V_unique=353
-lexical_diversity=0.3763326226
-trigram_repetition=0.0918803419

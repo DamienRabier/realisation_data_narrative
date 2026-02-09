@@ -1,5 +1,0 @@
-input_file=co2_extracted_text.txt
-N_words=3811
-V_unique=1116
-lexical_diversity=0.2928365258
-trigram_repetition=0.1441323182

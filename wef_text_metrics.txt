@@ -1,5 +1,0 @@
-input_file=wef.txt
-N_words=79
-V_unique=50
-lexical_diversity=0.6329113924
-trigram_repetition=0.0389610390
