@@ -1,0 +1,232 @@
+R2D3
+L'apprentissage automatique en images - Chapitre 1
+:
+Français
+Bahasa Indonesia
+Deutsch
+English
+Español
+Italiano
+Português
+Türk
+ελληνικά
+русский
+لعربية
+中文
+简体
+En apprentissage automatique ("
+machine learning
+" en anglais), les machines utilisent des méthodes d'
+apprentissage statistiques
+afin d'extraire automatiquement des motifs des données. Ces méthodes peuvent être utilisées pour faire des prédictions avec une très grande précision.
+Continuer à faire défiler la page.
+À travers un exemple autour du logement, nous allons créer un modèle d'apprentissage automatique capable de distinguer les maisons situées à New-York de celles situées à San Francisco.
+scroll
+Tout d'abord, un peu d'intuition
+Prenons le cas où vous désirez savoir si une maison se trouve à
+San Francisco
+ou à
+New York
+. En apprentissage automatique, on parle d'un problème de
+classification
+lorsque l'on cherche à catégoriser un élément.
+Vu que San Francisco est une ville plutôt vallonnée (par rapport à New-York), l'altitude de la maison semble être un bon moyen de distinguer entre les deux villes.
+À partir des données d'altitude de maisons présentées à droite, on pourrait décider qu'une maison au-dessus de 240 pieds (240 ft ~ 73 m) devrait être
+classée
+comme située à San Francisco.
+Puis en ajoutant de la nuance
+Ajouter une autre
+dimension
+que l'altitude permet de nuancer. Par exemple, les appartements new-yorkais peuvent atteindre des prix au mètre carré très élevés.
+Ainsi, en visualisant l'altitude
+et
+le prix au mètre carré avec un
+nuage de points
+, on peut mieux différencier parmi les maisons situées à faible altitude.
+Les données suggèrent que parmi les maisons situées à moins de 240 ft d'altitude, celles valant plus de 1776 $ le pied carré (per sqft) se situent à New-York.
+Les dimensions selon lesquelles on représente les données sont communément appelées
+variables
+,
+prédicteurs
+ou
+caractéristiques
+("features" en anglais).
+Dessiner des frontières
+Vous pouvez visualiser l'altitude de plus de 240 ft et le prix au pied carré de plus de 1776 $ comme des frontières délimitants des régions dans votre nuage de points. Les maisons situées dans les régions en vert et en bleu correspondent respectivement à San Francisco et New-York.
+L'essence de l'apprentissage statistique repose sur sa capacité à identifier les frontières de décision dans les données.
+Bien évidemment, pour différencier parmi les maisons à faible altitude
+et
+à faible prix au mètre carré (région blanche dans le coin inférieur gauche), on aura besoin d'informations supplémentaires.
+Les données que l'on utilise pour produire le modèle se base sur 7 variables différentes. La production d'un modèle est communément appelé l'
+apprentissage
+d'un modèle ("training" en anglais).
+À droite, on visualise les variables dans une
+matrice dite "à nuage de points
+" afin de montrer les relations entre chaque paire de variables (parmi les 7).
+Il y a des motifs apparents dans les données mais les frontières de décision pour les délimiter ne sont pas pour autant évidentes.
+Et maintenant, de l'apprentissage automatique
+L'extraction de motifs est à la base de l'apprentissage automatique. L'utilisation de méthodes d'apprentissage statistique permet d'obtenir des frontières de décision.
+L'arbre de décision
+est un exemple de méthode d'apprentissage automatique. Les arbres de décision considèrent les variables une à une et sont une méthode plutôt accessible à tous bien que rudimentaire.
+Obtenir de meilleures frontières
+Considèrons à nouveau la frontière autour de l'altitude de 240 ft établie précédemment afin de voir comment améliorer notre intuition.
+Nous allons avoir besoin d'une nouvelle perspective.
+En transformant notre nuage de points en un
+histogramme
+, on peut mieux voir le nombre de maisons à chaque altitude.
+Bien que la maison la plus haute de New-York se situe à 240 ft d'altitude, la majorité d'entres elles se situent à des altitudes bien plus basses.
+Votre premier embranchement
+Un arbre de décision utilise des conditions si-alors pour définir des motifs dans les données.
+Par exemple,
+si
+l'altitude d'une maison est supérieure à un nombre donné,
+alors
+cette maison est probablement située à San Francisco.
+En apprentissage automatique, ces conditions sont appellées
+embranchements
+et elles divisent les données en deux
+branches
+en fonction de la valeur d'une variable.
+Cette valeur qui sépare en deux branches est appellée
+point de séparation
+("split point" en anglais). Les maisons à sa gauche sont classifiées dans une catégorie et celles à sa droite dans une autre. Un point de séparation correspond à l'idée de frontière pour un arbre de décision.
+Compromis
+Choisir un point de séparation implique un compromis. Notre frontière initiale (~240 ft) catégorise incorrectement des maisons situées à San Francisco comme situées à New-York.
+Si l'on considère la partie verte dans le diagramme circulaire ci-contre, elle correspond à toutes les maisons situées à San Francisco mal classifiées par le modèle. On parle de
+faux négatifs
+.
+Cependant, un point de séparation qui classifie comme situées à San Francisco toutes les maisons à sa droite incluera des maisons situées à New-York. On parle alors de
+faux positifs
+.
+La meilleure séparation
+La
+meilleure séparation
+correspondrait à avoir des branches les plus homogènes possible. Il existe plusieurs méthodes mathématiques pour calculer cette meilleure séparation.
+Comme on peut le voir ci-contre, même la meilleure séparation à l'aide d'une seule dimension ne permet pas de séparer clairement les maisons situées à San Francisco de celles situées à New-York.
+Récursivité
+Afin d'ajouter un point de séparation supplémentaire, l'algorithme réapplique le principe à chaque branche, correspondante à un sous-ensemble des données. On parle de
+récursivité
+, un concept qui survient souvent lorsque l'on apprend des modèles.
+Les histogrammes à gauche montrent la distribution des valeurs de chacune des dimensions pour chacun des deux sous-ensembles.
+La meilleure séparation dépend de quelle branche de l'arbre de décision on considère.
+Pour les maisons à faible altitude, le prix par mètre carré, à
+X $/sqft
+, est la meilleure dimension pour la prochaine condition si-alors. Pour les maisons à plus haute altitude, c'est le prix, à
+Y$
+.
+Faire pousser un arbre
+Des embranchements supplémentaires ajouteront de l'information qui augmentera
+la précision de la prédiction
+faite par l'arbre.
+Ainsi, en séparant une nouvelles fois, la précision passe à
+84%
+.
+Et en ajoutant encore plus de niveaux de séparation, on arrive à
+96%
+.
+On peut même ré-appliquer le principe jusqu'à atteindre les
+100%
+, si bien qu'au bout de chaque branche, les maisons sont soit toujours situées à San Francisco soit toujours à New-York.
+Les noeuds situés au bout des branches sont
+appellés des feuilles
+. Un arbre de décision classifiera les maisons au niveau d'une feuille selon la catégorie la plus fréquente pour cette feuille.
+Prédire
+L'arbre de décision ainsi obtenu permet de déterminer si une maison se situe à San Francisco ou New-York en parcourant les branches de l'arbre correspondant aux données.
+Ci-contre vous pouvez voir les données utilisées pour apprendre le modèle parcourir l'arbre.
+Ces données sont dites
+d'apprentissage
+parce qu'elles ont été utilisées pour apprendre le modèle.
+Parce que l'on a construit l'arbre jusqu'à atteindre 100% de précision sur les données d'apprentissage, cet arbre permet de prédire parfaitement dans quelle ville les maisons utilisées en apprentissage se situent.
+Confronter la réalité
+Bien évidemment, ce qui importe c'est la précision de l'arbre à effectuer des prédictions pour des données jamais vues.
+Pour
+évaluer
+les performances de l'arbre sur de nouvelles données, nous avons besoin de l'appliquer à des données jamais rencontrées. Ces données sont dites de
+test
+(par opposition à celles dites d'apprentissage).
+Idéalement, l'arbre devrait être aussi bon pour prédire à partir de données connues et jamais utilisées.
+Celui-ci est loin d'être idéal.
+Ces erreurs sont dues à du
+sur-apprentissage
+. Notre modèle a appris à considérer toutes les caractéristiques des données d'apprentissage comme importantes, même celles qui le sont moins.
+Le sur-apprentissage est un concept fondamental en apprentissage que l'on expliquera dans notre prochain article.
+Recap
+L'apprentissage automatique ("
+machine learning
+" en anglais) permet d'identifier des motifs dans les données à l'aide de
+méthodes statistiques
+capable de découvrir des
+frontières de décision
+. On peut l'utiliser pour faire des prédictions.
+Les arbres de décision sont l'une des méthodes pour faire de telles prédictions. Ils sont basés sur des conditions si-alors qui définissent des frontières dans les données.
+Le phénomène de
+sur-apprentissage
+survient lorsque certaines frontières sont basées sur des distinctions qui ne sont pas importantes. Une façon de voir si un modèle sur-apprend est de tester ses prédictions sur des données inconnues.
+À suivre
+Dans notre prochain article, nous parlerons de sur-apprentissage et de sa relation avec un compromis fondamental en apprentissage automatique.
+Des questions? Des commentaires? N'hésitez pas à nous contacter, sur Twitter
+@r2d3us
+ou par mail à
+[email protected]
+.
+Enfin, merci beaucoup à
+François Rousseau
+-- un ami et "machine teacher" -- pour la traduction de l'article. :-)
+Follow us on Twitter...
+L'apprentissage automatique en images (Visual intro to ML, now in French). Merci beaucoup à
+@frncsrss
+!
+https://t.co/HMiRuAoDR6
+— r2d3.us (@r2d3us)
+November 26, 2015
+...or Facebook...
+L’apprentissage automatique en images. http://www.r2d3.us/lapprentissage-automatique-en-images-chapitre-1/
+Posted by
+R2D3
+on
+Wednesday, November 25, 2015
+… or keep in touch with email!
+Posts from R2D3.us
+Keep in touch!
+Footnotes
+Le concept d'apprentissage automatique a été exploré dans de nombreuses disciplines (informatique, statistiques, ingénieurie, psychologie, etc.), ce qui explique les différentes terminologies.
+Pour en savoir plus sur comment calculer la meilleure séparation, vous pouvez vous renseigner sur le 'coefficient de Gini' ou 'l'entropie croisée'
+L'une des raisons pour lesquelles les machines sont si aptes à appliquer les méthodes d'apprentissage statistique est leur abilité à effectuer des tâches répétitives rapidement et sans s'ennuyer.
+L'algorithme ici décrit est dit
+glouton
+car il suit une approche descendante pour séparer les données. C'est-à-dire qu'il cherche la variable qui rend chaque sous-ensemble le plus homogène possible
+à ce moment-là.
+.
+Placer le curseur de la souris sur l'un des points situés au bas de l'arbre pour voir le trajet qu'il a suivi dans l'arbre.
+Attention, spoiler : il s'agit du compromis biais/variance !
+R2D3
+R2D3 is an experiment in expressing statistical thinking with interactive design. Find us at
+@r2d3us
+.
+Questions? Check out the
+FAQs
+.
+Stephanie interprets R2
+Stephanie is currently at Meta. Prior to that, she was at Netflix and at
+Stitch Fix
+. She's got a MS in Statistics from Stanford.
+Find Stephanie:
+LinkedIn
+Twitter
+Email
+Tony visualizes with D3
+Tony is a product designer at
+Augment Code
+, where he works on UX for coding agents. Prior to Augment Code, Tony worked at a whole bunch of AI start-ups, as well as at
+Facebook AI
+back when it was still Facebook. He holds an
+MFA in Interaction Design at the School of Visual Arts
+in New York City, where he tried to
+change congress with a fancy infographic
+.
+Find Tony:
+Portfolio
+Twitter
+Blog
+LinkedIn
+Email

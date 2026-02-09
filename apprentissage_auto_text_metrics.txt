@@ -1,0 +1,5 @@
+input_file=apprentissage_auto_extracted_text.txt
+N_words=1924
+V_unique=641
+lexical_diversity=0.3331600832
+trigram_repetition=0.1024973985

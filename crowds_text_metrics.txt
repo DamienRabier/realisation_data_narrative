@@ -1,0 +1,5 @@
+input_file=crowds.html
+N_words=1942
+V_unique=673
+lexical_diversity=0.3465499485
+trigram_repetition=0.0371134021

@@ -1,0 +1,226 @@
+Seing theory
+A visual introduction to probability and statistics
+Start
+Seing Theory
+CHAPTER
+Basic Probability
+Compound Probability
+Probability Distributions
+Frequentist Inference
+Bayesian Inference
+Regression Analysis
+Chance events
+Expectation
+Variance
+Set Theory
+Counting
+Conditional Probability
+Random Variable
+Discrete and Continuous
+Central Limit Theorem
+Point Estimation
+Confidence Interval
+The Bootstrap
+Bayes' Theorem
+Likelihood Function
+Prior to Posterior
+Ordinary Least Squares
+Correlation
+Analysis of Variance
+Chapter 1
+Basic Probability
+This chapter is an introduction to the basic concepts of probability theory
+Chance events
+Expectation
+Variance
+Chance Events
+Chapter 1: Basic Probability
+Randomness is all around us. Probability theory is the mathematical framework that allows us to analyze chance events in a logically sound manner. The probability of an event is a number indicating how likely that event will occur. This number is always between 0 and 1, where 0 indicates impossibility and 1 indicates certainty.
+A classic example of a probabilistic experiment is a fair coin toss, in which the two possible outcomes are heads or tails. In this case, the probability of flipping a head or a tail is 1/2. In an actual series of coin tosses, we may get more or less than exactly 50% heads. But as the number of flips increases, the long-run frequency of heads is bound to get closer and closer to 50%.
+Flip the coin
+Flip 100 times
+For an unfair or weighted coin, the two outcomes are not equally likely. You can change the weight or distribution of the coin by dragging the true probability bars (on the right in blue) up or down. If we assign numbers to the outcomes — say, 1 for heads, 0 for tails — then we have created the mathematical object known as a random variable
+Expectation
+The expectation of a random variable is a number that attempts to capture the center of that random variable's distribution. It can be interpreted as the long-run average of many independent samples from the given distribution. More precisely, it is defined as the probability-weighted sum of all possible values in the random variable's support,
+E[X]=∑x∈XxP(x)
+Consider the probabilistic experiment of rolling a fair die and watch as the running sample mean converges to the expectation of 3.5.
+Roll the die
+Roll 100 times
+Change the distribution of the different faces of the die (thus making the die biased or "unfair") by adjusting the blue bars below and observe how this changes the expectation.
+Variance
+Whereas expectation provides a measure of centrality, the variance of a random variable quantifies the spread of that random variable's distribution. The variance is the average value of the squared difference between the random variable and its expectation,
+Var(X)=E[(X−E[X])2]
+Draw cards randomly from a deck of ten cards. As you continue drawing cards, observe that the running average of squared differences (in green) begins to resemble the true variance (in blue).
+Draw a card
+Draw 100 times
+Toggle which cards you want to include in the deck by clicking on them below.
+Next
+Compound Probability
+Chapter 2
+Compound Probability
+This chapter discusses further concepts that lie at the core of probability theory
+Set Theory
+Counting
+Conditional Probability
+Chapter 2: Compound Probability
+Set Theory
+A set, broadly defined, is a collection of objects. In the context of probability theory, we use set notation to specify compound events. For example, we can represent the event "roll an even number" by the set {2, 4, 6}. For this reason it is important to be familiar with the algebra of sets.  
+Use the set constructor below to build a set, then press "Submit" to see your set visualized in the Venn diagram. You can also move and resize the circles by dragging and dropping.
+Submit
+Delete
+Reset
+You may wish to use the visualization to verify some of the following set identities
+Counting
+It can be surprisingly difficult to count the number of sequences or sets satisfying certain conditions. For example, consider a bag of marbles in which each marble is a different color. If we draw marbles one at a time from the bag without replacement, how many different ordered sequences (permutations) of the marbles are possible? How many different unordered sets (combinations)?
+Permutation
+Combination
+Choose how many marbles the bag should contain.
+Click on the table below to visualize all possible permutations or combinations of the marbles.
+Conditional Probability
+Conditional probabilities allow us to account for information we have about our system of interest. For example, we might expect the probability that it will rain tomorrow (in general) to be smaller than the probability it will rain tomorrow given that it is cloudy today. This latter probability is a conditional probability, since it accounts for relevant information that we possess.
+Mathematically, computing a conditional probability amounts to shrinking our sample space to a particular event. So in our rain example, instead of looking at how often it rains on any day in general, we "pretend" that our sample space consists of only those days for which the previous day was cloudy. We then determine how many of those days were rainy.
+Click on the tabs below to visualize the shrinking of the sample space.
+A
+B
+C
+Submit
+This visualization was adapted from Victor Powell's fantastic visualization of conditional probability.
+Next
+Probability Distribution
+Chapter 3
+Probability Distributions
+A probability distribution specifies the relative likelihoods of all possible outcomes.
+Random Variable
+Discrete and Continuous
+Central Limit Theorem
+Chapter 3: Probability Distributions
+Random Variables
+Formally, a random variable is a function that assigns a real number to each outcome in the probability space. Define your own discrete random variable for the uniform probability space on the right and sample to find the empirical distribution.
+Click and drag to select sections of the probability space, choose a real number value, then press "Submit."
+Value
+Submit
+Color
+Value
+Sample from probability space to generate the empirical distribution of your random variable.
+Sample Distribution
+Reset
+Discrete and Continuous
+There are two major classes of probability distributions.
+Discrete
+Continuous
+A discrete random variable has a finite or countable number of possible values.
+If X is a discrete random variable, then there exists unique nonnegative functions, f(x) and F(x), such that the following are true:
+P(X=x)P(X<x)=f(x)=F(x)
+Choose one of the following major discrete distributions to visualize. The probability mass function f(x) is shown in yellow and the cumulative distribution function F(x) in orange (controlled by the slider).
+select a distribution
+Central Limit Theorem
+The Central Limit Theorem (CLT) states that the sample mean of a sufficiently large number of i.i.d. random variables is approximately normally distributed. The larger the sample, the better the approximation.
+Change the parameters α and β to change the distribution from which to sample.
+Choose the sample size and how many sample means should be computed (draw number), then press "Sample." Check the box to display the true distribution of the sample mean.
+Sample size
+Draws
+Theorical
+Sample
+This visualization was adapted from Philipp Plewa's fantastic visualization of the central limit theorem.
+Next
+Frequentist Inference
+Chapter 4
+Frequentist Inference
+Frequentist inference is the process of determining properties of an underlying distribution via the observation of data
+Point Estimation
+Confidence Interval
+The Bootstrap
+Chapter 4: Frequentist Inference
+Point Estimation
+One of the main goals of statistics is to estimate unknown parameters. To approximate these parameters, we choose an estimator, which is simply any function of randomly sampled observations.
+To illustrate this idea, we will estimate the value of π by uniformly dropping samples on a square containing an inscribed circle. Notice that the value of π can be expressed as a ratio of areas.
+Scircle=πr2Ssquare=4r2⟹π=4ScircleSsquare
+We can estimate this ratio with our samples. Let m be the number of samples within our circle and n the total number of samples dropped. We define our estimator π^ as:
+π^=4mn
+It can be shown that this estimator has the desirable properties of being unbiased and consistent.
+Drop 100 Samples
+Drop 1000 Samples
+Confidence Interval
+In contrast to point estimators, confidence intervals estimate a parameter by specifying a range of possible values. Such an interval is associated with a confidence level, which is the probability that the procedure used to generate the interval will produce an interval containing the true parameter.
+Choose a probability distribution to sample from.
+select a distribution
+Choose a sample size (n) and confidence level (1−α).
+Start sampling to generate confidence intervals
+Start Sampling
+This visualization was adapted from Kristoffer Magnusson's fantastic visualization of confidence intervals.
+The Bootstrap
+Much of frequentist inference centers on the use of "good" estimators. The precise distributions of these estimators, however, can often be difficult to derive analytically. The computational technique known as the Bootstrap provides a convenient way to estimate properties of an estimator via resampling. In this example, we resample with replacement from the empirical distribution function (which is itelf generated by sampling once from the population) in order to estimate the standard error of the sample mean.
+Choose a probability distribution from which we will sample once to generate the empirical distribution function.
+select a distribution
+Choose a sample (and resampling) size (n) and sample from your chosen distribution.
+Sample
+Resample to get an idea of the spread of the sample mean's distribution.
+Resample
+Resample 100 times
+Next
+Bayesian Inference
+Chapter 5
+Bayesian Inference
+Bayesian inference techniques specify how one should update one’s beliefs upon observing data
+Bayes' Theorem
+Likelihood Function
+Prior to Posterior
+Chapter 5: Bayesian Inference
+Bayes' Theorem
+Suppose that on your most recent visit to the doctor's office, you decide to get tested for a rare disease. If you are unlucky enough to receive a positive result, the logical next question is, "Given the test result, what is the probability that I actually have this disease?" (Medical tests are, after all, not perfectly accurate.) Bayes' Theorem tells us exactly how to compute this probability:
+P(Disease|+)=P(+|Disease)P(Disease)P(+)
+As the equation indicates, the posterior probability of having the disease given that the test was positive depends on the prior probability of the disease P(Disease). Think of this as the incidence of the disease in the general population. Set this probability by dragging the bars below.
+The posterior probability also depends on the test accuracy: How often does the test correctly report a negative result for a healthy patient, and how often does it report a positive result for someone with the disease? Determine these two distributions below.
+Finally, we need to know the overall probability of a positive result. Use the buttons below to simulate running the test on a representative sample from the population.
+Test one patient
+test remaining
+We now have everything we need to determine the posterior probability that you have the disease. The table below gives this probability among others using Bayes' Theorem.
+Sort 
+Reset
+Likelihood Function
+In statistics, the likelihood function has a very precise definition:
+L(θ|x)=P(x|θ)
+The concept of likelihood plays a fundamental role in both Bayesian and frequentist statistics.
+select a distribution
+Choose a sample size n and sample once from your chosen distribution.
+Sample
+Use the purple slider on the right to visualize the likelihood function.
+Prior to Posterior
+At the core of Bayesian statistics is the idea that prior beliefs should be updated as new data is acquired. Consider a possibly biased coin that comes up heads with probability p. This purple slider determines the value of p (which would be unknown in practice).
+The pink sliders control the shape of the initial Beta(α,β) prior distribution, the density function of which is also plotted in pink.
+As we acquire data in the form of coin tosses, we update the posterior distribution on p, which represents our best guess about the likely values for the bias of the coin. This updated distribution then serves as the prior for future coin tosses.
+Flip the coin
+Flip 10 times
+Next
+Regression Analysis
+Chapter 6
+Regression Analysis
+Linear regression is an approach for modeling the linear relationship between two variables
+Ordinary Least Squares
+Correlation
+Analysis of Variance
+Chapter 6: Regression Analysis
+Ordinary Least Squares
+The ordinary least squares (OLS) approach to regression allows us to estimate the parameters of a linear model. The goal of this method is to determine the linear model that minimizes the sum of the squared errors between the observations in a dataset and those predicted by the model. Explore the OLS method through the four infamous datasets contained in Anscombe's Quartet.
+Choose one of the quartets to investigate.
+Drag and drop data points to explore how this affects the OLS line.
+Click on a column of the regression table to learn more about this parameter.
+Correlation
+Correlation is a measure of the linear relationship between two variables. It is defined for a sample as the following and takes value between +1 and −1 inclusive:
+r=sxysxx−−−√syy−−−√
+sxy,sxx,syy are defined as:
+sxysxxsyy=∑i=1n(xi−x¯)(yi−y¯)=∑i=1n(xi−x¯)2=∑i=1n(yi−y¯)2
+It can also be understood as the cosine of the angle formed by the ordinary least square line determined in both variable dimensions. Explore this concept through Edgar Anderson's famous Iris flower dataset.
+Check which species to investigate.
+setosa
+versicolor
+virginica
+Click on a cell of the correlation matrix to visualize the relationship between these traits.
+Analysis of Variance
+Analysis of Variance (ANOVA) is a statistical method for testing whether groups of data have the same mean. ANOVA generalizes the t-test to two or more groups by comparing the sum of square error within and between groups.
+Choose one of the following datasets to investigate.
+select a dataset
+Drag and drop data points to explore how this affects the result of the ANOVA test.
+Click on a column of the ANOVA table to learn more about this parameter.
+Next
+Home

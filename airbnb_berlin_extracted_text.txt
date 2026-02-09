@@ -1,0 +1,942 @@
+Airbnb vs. Berlin
+Toggle navigation
+Introduction
+Prices
+Concentration
+Streets
+Offers
+Compare cities
+DE
+This project is from 2015 and no longer maintained.
+AirBnB
+vs.
+Berlin
+What data tells us.
+Rents are on the rise in Berlin, and the reasons are manifold. Online portals of the so-called “sharing economy”, such as Airbnb, are marketing to tourists and have proven to be a profitable business. But are they contributing to a shortage in affordable housing? This question has sparked a vivid debate and has polarized opinions. But who is right? A look at the data provides valuable insights.
+Most Berliners have got used to rising rents. In recent years, the capital has seen rents rise faster than
+any other city in Germany
+. With affordable housing becoming increasingly scarce, sharing economy websites like
+Airbnb
+,
+Wimdu
+or
+9flats
+have come into the focus of certain criticism. The portals allegedly fuel the rent hike by enabling landlords to offer de facto commercial holiday flats. This removes regular rental flats from the market. Although offering a rental flat as a vacation flat has been outlawed in May 2014 (the German term is “Zweckentfremdungsverbot”), the number of such offers is still estimated to be very high. Airbnb is by far the most popular online platform for short-term vacation flats among tourists.
+Zweckentfremdungsverbot (Law against misappropriation)
+Read the current version of the law at
+gesetze.berlin.de
+(German)
+11 701
+Airbnb listings in Berlin
+This equals
+0.4 %
+of all Berlin flats
+34 418
+Airbnb beds
+This means an average of
+2.9
+beds per flat
+Berlin is the unchallenged Airbnb capital of Germany: More flats and rooms are offered here than in Hamburg, Munich, Cologne and Frankfurt combined. According to the data that Airbnb makes publicly accessible, around 11 700 accommodation units are offered for rental in Berlin each day. If rooms are excluded and only entire flats are taken into account, this number still amounts to 7 714. This means that out of the
+1.9 million flats in Berlin
+roughly 1 in 240 can be found on Airbnb. According to the latest
+data
+published by Airbnb in December 2014, this ratio is even higher.
+Caption
+The map shows the number of Airbnb offers in Berlin, split up by neighbourhoods (called "Kieze" in Berlin; for further detail, see
+LOR Planungsräume (German)
+). The shading intensity increases with the number of listings.
+Look at the data
+Share this map
+Share on facebook
+Share on twitter
+Share on tumblr
+Send per email
+However, not all neighbourhoods are equally popular when it comes to Airbnb rentals. The interactive map shows in which parts of Berlin most flats and rooms are offered. This reveals considerable differences between neighbourhoods. The distribution shown on the map covers not only
+selected neighbourhoods
+, but all of Berlin's 447 “Kieze”. The Reuterkiez in Neukölln leads the ranking. Here, 476 rooms and flats are offered within only a few blocks. The area around Helmholtzplatz in Prenzlauer Berg is second with 345 offers, followed by Kreuzberg's Gräfekiez where 314 rooms and flats are offered. In these three neighbourhoods, there are 16 to 17 offers per 1 000 residents.
+Most flats are offered in “trendy” inner city districts like Friedrichshain-Kreuzberg, Neukölln and Prenzlauer Berg, which are inernationally synonymous for the “Berlin lifestyle” and are therefore preferred by tourists as a hub for their stay in Berlin. Outside of the S-Bahn circle line (“Ringbahn”), there are relatively few offers.
+Rental Prices
+An even higher discrepancy between the different neighbourhoods is found in the furnishing and pricing of the rooms and flats. The range is considerable and included anything from a makeshift bed made from pallets in a commercial area in Spandau for 10 Euros per night to a complete castle in Kreuzberg for 2 500 Euros per night. Among the more bizarre objects are a rudimentarily furnished igloo tent in a factory hall (10 Euros per night) or a design houseboat (149 Euros per night).
+An Airbnb unit in Berlin
+costs on average
+55 €
+per night*
+*with minimum occupancy
+A total number of
+7 019
+units cost less than
+55 € per night.
+This equals
+60%
+of all listings
+Price
+20
+40
+60
+80
+100
+120
+140
+160
+Number of offers
+200
+400
+600
+800
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+20
+40
+60
+80
+100
+120
+140
+160
+Price Distribution
+The chart shows the the lower end of the price distribution of Airbnb offers in Berlin. For each price on the x-axis the number of listings is shown on the y-axis.
+Look at the data
+Share this chart
+Share on facebook
+Share on twitter
+Share on tumblr
+Send per email
+The average price for an Airbnb accommodation in Berlin is 55 Euros per night (at the given minimum occupancy), which is significantly below
+the average price of around 80 Euros for a hotel room in Berlin
+. Therefore it is no surprise that many visitors rely on private offers, especially since they are frequently located in the more “hipper” neighbourhoods. Overall, about 60% of all offers are cheaper than 55 Euros. The price level of Airbnb offers in Berlin in relatively low in comparison with other cities. And still, it means profitable business for landlords. If all Airbnb offers in Berlin were rented at the same time, this would amount to a daily revenue of 645 000 Euros.
+A comparison of the pricing in Berlin with that of other German cities shows a relatively homogeneous picture. The percentage of apartments per price segment is very similar in Hamburg, Cologne and Frankfurt. While there are a few lower-price offers in Berlin, most accommodations in all of the four cities cost slightly less than 50 Euros. Consequently, the average price is almost the same in all four cities.
+The only exception is Munich, the third largest city in Germany, where the number of high-priced offers is significantly higher. Thus it comes as no surprise that the average price of 71 Euros in Munich is considerably above the 55 to 60 Euros that landlords charge in the five other cities examined.
+Breakfast for 20 People?
+From “Big Sharing” to Big Business
+Flats on Airbnb are more and more frequently rented on a commercial level since landlords can make higher profits with short term rentals than with regular tenants. Often very little is left of the platform's original concept, that consists of “sharing” unused spaces with visitors and possibly establishing a (temporary) personal connection with them (like in a “bed an breakfast”). A good indicator for whether flats are commercially rented is the number of flats offered by a given person. Those who offer more than one room or flat are obviously more likely to do so in order to make money.
+1 167
+Airbnb users are offering more
+than one unit
+This equals
+10 %
+of all users
+1.3
+units are offered
+by any user on average
+The fraction of users who rent out more than one room or flat amounts to around 10%, or 1 200 people, in Berlin. On average, Airbnb users in Berlin offer 1.3 accommodation units. This is slightly more offers per user than for example in
+New York City
+. These numbers indicate that the platform is likely being used by individuals who aim at making profits.
+Top 10 users in Berlin
+Martin
+44
+Frank + Florian
++ 39
+Ben
++ 37
+Claire
++ 27
+Arzu
++ 24
+Berlin Aspire
++ 24
+Juliana
++ 24
+Rouven
++ 21
+Cristian
++ 21
+Raja Jooseppi
++ 20
+= 281 offers
+The table shows the number of units offered by Berlin's top 10 users. All offers can be assigned to individual users through a unique ID.
+Look at the data
+Share this table
+Share on facebook
+Share on twitter
+Share on tumblr
+Send per email
+This becomes more evident when we take a detailed look at Airbnb's “power users” in Berlin, i.e. users who offer a large number of flats that are in many cases spread all over the city. Here, we see a remarkable concentration of flats per Airbnb user: There is actually one individual who rents out 44 flats in Berlin through Airbnb. Such a large number of listings obviously has to be attributed to a commercial vendor. Overall, the top 10 users rent out a combined 281 flats or rooms.
+In many cases the profile names of these users reveal who stands behind their offers. “Berlin Aspire” for example (24 offers) or “Raja Jooseppi” (20 offers) are very likely businesses, not private individuals. This is another hint at the misuse of the platform as a business tool.
+Noteworthy:
+Foreign real estate agents like “Berlin Aspire” are using Airbnb to sell their offers.
+Out of the top 100 Airbnb vendors, 30 are female and 56 male. Three of them cannot clearly be categorized through their profile names. 11 of them are commercial vendors.
+Number of beds
+2
+4
+6
+8
+10
+12
+14
+Number of users
+1000
+2000
+3000
+4000
+5000
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+2
+4
+6
+8
+10
+12
+14
+Distribution of unit size
+The charts shows the number of users who offer more than one bed per unit.
+Look at the data
+Share this chart
+Share on facebook
+Share on twitter
+Share on tumblr
+Send per email
+Another indication for a commercial use of Airbnb is the number of guests admitted per listing. While roughly 46% of all users offer to accommodate no more than two guests, there are a few users who offer more than 10 places per offer. In this manner, hostels or professional vendors of larger flats that depend on a high utilization rate can increase their profits.
+Network of flats
+For those who only rent out a room in their flat, it shouldn't be difficult to welcome their guests and to maintain and prepare their private “hotel room”. This changes when users offer multiple rooms and flats that might even be spread over the entire city. Mapping the 281 flats offered by the top 10 Airbnb users in Berlin shows a strong concentration in the central districts, which is  not surprising in the big picture.
+Number of top users shown:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Network map
+The map show the locations of the listings by the top 10 users in Berlin. Each offer is connected to all other offers of the respective user. Move the slider to change the number of top users included in the map (1=Martin, 2=Frank and Florian, etc.).
+Look at the data
+Share this network map
+Share on facebook
+Share on twitter
+Share on tumblr
+Send per email
+The spread in the geographic distribution of the offers in the central districts is relatively high. However, there are several small accumulations where offers by the same users are concentrated. These concentrations are not located in the immediate vicinity of typical “tourist hot spots”. A number of offers are found near Nollendorfplatz (1) in a convenient distance from Ku'Damm and Tiergarten. Another accumulation is found in Moabit (2) south of the circle line station Beusselstraße and 10 walking minutes from Mauerpark in the Arminkiez neighbourhood (3). Only the strong concentration at Bernauerstraße (4) is located directly next to a well-known “tourist hotspot”, the Berlin Wall Memorial.
+It was brought to our attention that the cluster around Nollendorfplatz (1) may have a connection with the local LGBT scene there. The diversity and strong presence of the LGBT scene attracts people from smaller cities where this scene is smaller or almost non-existent. Especially around events like “Folsom Europe”, Airbnb flats in Berlin provide a welcome alternative.
+The top 10 users seem to prefer neighbourhoods in which housing space is currently cheap to acquire. This helps reduce costs and minimize transportation expenses for commuting between individual locations. The average distance between the apartments shown above is around 2 kilometres. The two users whose flats are concentrated in Moabit (2) and on Bernauer Straße (4) range well below this average at 1.3 and 0.4 kilometres respectively.
+Data uncertainty
+Due to the anonymization of the data which Airbnb applies to the addresses of the listings, we were not able to determine whether the concentrations represent single buildings.
+Click here for a more detailed explanation.
+It is striking how the 4 top users have seemingly divided up the city with concentrations in the Northeast, the Northwest, in Mitte and in the South.
+Streets
+Apart from the commercial and strategic operation of holiday flats by the top users, most Airbnb flats are located in the areas that are attractive to tourists. This includes – especially due to Berlin's high popularity among younger people – the up-and-coming district Neukölln as well as Mitte, Prenzlauer Berg and Kreuzberg-Friedrichshain. Within these neighborhoods most activity is aligned with central “Airbnb Boulevards” and their small-scale catchment areas where cafés, bars, clubs and galleries are numerous. A typical example is Neukölln which hosts visible Airbnb “clusters” around Sonnenallee and Weserstraße. Both streets combine a total of around 200 offers.
+Street map
+The map shows all “Airbnb Streets” of Berlin, i.e. streets with more than 20 Airbnb offers. Darker colour indicates more offers.
+Look at the data
+Share this map
+Share on facebook
+Share on twitter
+Share on tumblr
+Send per email
+A similar situation was found in Mitte and the southern parts of Prenzlauer Berg. Here, most offers are concentrated on Torstraße, Schönhauser Allee and Prenzlauer Allee. In Friedrichshain, Airbnb activity is condensed around the Simon-Dach neighbourhood and Boxhagener Platz.
+Sonnenallee
+Weserstraße
+Torstraße
+Schönhauser Allee
+Boxhagener Straße
+Prenzlauer Allee
+Brunnenstraße
+Kastanienallee
+Urbanstraße
+Hermannstraße
+Number of offers
+25
+50
+75
+100
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+Sonnenallee
+Weserstraße
+Torstraße
+Schönhauser Allee
+Boxhagener Straße
+Prenzlauer Allee
+Brunnenstraße
+Kastanienallee
+Urbanstraße
+Hermannstraße
+Top 10 streets
+The chart shows the top 10 Airbnb streets in Berlin based on the number of listings.
+Look at the data
+Share this chart
+Share on facebook
+Share on twitter
+Share on tumblr
+Send per email
+Offers
+To stand out in Berlin's competitive Airbnb market, many users try to market their offers in an appealing manner. Many offers display a high degree of professionalism. They include extensive descriptions, professional photos and as many reviews as possible.
+The title especially is used to make offers stand out. The motto seems to be “the more creative, the better”. Examining which words are most frequently used in titles provides interesting insights. Hardly surprising is the fact that the most frequently used term is “Berlin”, which appears in almost 1 in 5 titles. The capital still seems to be hip enough to make vendors use its “brand name” for their purposes. Below is a selection of some of the more interesting titles:
+X-Berg -pure living
+like a Berliner
+WOW!!! Fantastic room
+in Neukölln!!
+where real hipsters
+wish to live..
+160m
+2
+deluxe
+Dachgeschoss
+Luxury URBAN apt
+on KaDeWe/Ku'Damm
+central friedrichshain
+sexy cheap :)
+CHECKPOINT CHARLY
+KREUZBERG WIFI
+M❍ĐΞrn & ℃υsh✞y
+ℜ❍❍M ¡∩  NΞU Köɭɭn
+Remarkably, a very high number of flats are very “cosy” (936), “beautiful” (480), “sunny” (391)  or simply “nice” (345) (all these terms were used in English in the original German ads). Many titles are written entirely in English to attract foreign tourists and in many cases titles are specifically used to attract a specific target group, like the “weekend-party-jet-crowd” or “real hipsters”.
+It should be noted that most landlords on Airbnb are using the flat's location to advertise it. More than 60% of all titles relate to either the district, the neighbourhood or the vicinity of certain urban landmarks or tourist sights. Around 40% of the ad titles contain vocabulary that praises the emotional character of the offered flat. The words “luxurious”, “deluxe” and “modern” are particularly popular. Information about the flat's size or price are far less relevant in the ad titles.
+35.5%
+64.5%
+0
+35
+40
+45
+50
+55
+60
+65
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+0
+7 543
+Location
+45.5%
+54.5%
+0
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+0
+5 320
+Attractiveness
+and emotionality
+42.1%
+57.9%
+0
+42
+44
+46
+48
+50
+52
+54
+56
+58
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+0
+4 927
+Furnishings
+and features
+9.1%
+90.9%
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+0
+1 784
+Size
+99.0%
+0
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+0
+36
+Price
+Words included in the category “location”
+lage
+center
+centre
+central
+zentral
+zentrum
+park
+parknähe
+parc
+brandenburg gate
+brandenburg tor
+brandenburger gate
+brandenburger tor
+party
+club
+bar
+prenzlauer berg
+prenzlberg
+prenzlb
+prenzl berg
+prenzlauerberg
+kreuzberg
+kreuz berg
+xberg
+x berg
+x-berg
+neukölln
+neukoelln
+neu koelln
+neu kölln
+neu köln
+neu koeln
+mitte
+friedrichshain
+fshain
+friedrichhain
+friedrichrichshain
+wedding
+schöneberg
+schoeneberg
+charlottenburg
+moabit
+wilmersdorf
+im herzen
+heart of
+near
+nähe
+location
+lage
+kreuzkölln
+kreuzköln
+kreuzkoeln
+kreuz koeln
+kreuz köln
+kreuz kölln
+kreuz koelln
+kruezkolln
+kreuzb
+area
+kiez
+mitten
+platz
+mauerpark
+penthouse
+west
+close to
+canal
+kanal
+ku'damm
+located
+xberg
+bergmannkiez
+alex
+alexa
+alexanderplatz
+potsdamer
+spree
+neukolln
+kudamm
+checkpoint charlie
+f'hain
+tempelhof
+schillerkiez
+markt
+kurfürstendamm
+kuhdamm
+tiergarten
+ostkreuz
+m2
+kollwitzplatz
+schönes
+near
+location
+lage
+gemütliches
+place
+nahe
+penthouse
+east
+blick
+spree
+strasse
+str
+straße
+lighthouse
+tempelh
+tempelhof
+tempel hof
+nördliche
+südliche
+noerdliche
+suedliche
+görlitzerbhf
+nahefriedrichshain
+viktoriakiez
+distance
+lichtenb
+luftbrücke
+local
+locale
+praktisch
+bahn
+station
+haltestelle
+busstop
+metro
+zob
+bvg
+allee
+quartier
+[…]str
+[…]strasse
+[…]kiez
+[…]allee
+[…]viertel
+[…]weg
+[…]ufer
+[…]stieg
+[…]brücke
+[…]platz
+[…]berg
+[…]chaussee
+[…]hof
+[…]burg
+[…]damm
+[…]straße
+Words included in the category “furnishings and features”
+austattung
+feature
+wlan
+wifi
+internet
+bike
+fahrrad
+garage
+private room
+privatzimmer
+balkon
+studio
+altbau
+bedroom
+bett
+ferienwohnung
+ferinwohnung
+rooftop
+roof top
+floor
+light
+maisonette
+maissonet
+garden
+terrace
+terasse
+terrasse
+blick
+shared
+double
+dachgeschoss
+suite
+doppelzimmer
+apartment
+zimmer
+balcony
+loft
+rooms
+floor
+furnished
+eingang
+maisonettewohn
+salon
+eingerichtet
+eingerichtes
+badezimmer
+decorated
+Words included in the category “attractiveness and emotionality”
+feeling
+feel
+boheme
+comfort
+comfortable
+bequem
+ruhig
+ruhiges
+quiet
+modern
+design
+deluxe
+luxus
+luxurius
+luxury
+luxerös
+luxueux
+alternative
+alternativ
+tourism
+tourist
+sonnig
+hell
+helles
+nice
+schöne
+schönes
+charming
+lovely
+great
+gemütlich
+best
+stylish
+trendy
+new
+perfect
+hip
+style
+family
+amazing
+charmante
+cool
+sweet
+toll
+comfy
+cute
+calm
+wunderschöne
+wonderful
+artist
+lively
+gorgeous
+friendly
+oase
+charme
+designer
+cosy
+cozy
+beautiful
+sunny
+bright
+quiet
+gemütliche
+stylish
+super
+trendy
+sonniges
+grünen
+tolle
+comfy
+freundlichem
+jugenstilvilla
+сharming
+representative
+loftstyle
+jazzy
+klassisch
+kunterbund
+kunterbunt
+süss
+entertainment
+relaxen
+außergewöhnlich
+grosszügig
+baroque
+geschmackvoll
+geschmacksvoll
+wunder
+tranquil
+Words included in the category “size”
+größe
+spacious
+eräumig
+big
+groß
+grande
+grosse
+klein
+large
+huge
+small
+space
+qm
+m2
+m²
+sqm
+medium
+[x*](l|s) (z.B. "xxl" oder "xs")
+Words included in the category “price”
+preis
+price
+convenient
+cheap
+günstig
+billig
+fair price
+inexpensive
+€
+euros
+euro
+EUR
+CHF
+teuer
+expensive
+bon marché
+Note
+All titles of Airbnb offers in Berlin were examine with respect to the vocabulary used. The most frequently used words were filtered out and categorized semantically into the following categories: i) location, ii) attractiveness and emotionality, iii) furnishings and features, iv) size and i) price.  Every title containing at least one word from one of these categories was counted once. Titles were counted multiple times if they contained words from more than one category.
+Look at the words list
+Look at the data
+Share these facts
+Share on facebook
+Share on twitter
+Share on tumblr
+Send per email
+Look dear, it's so pretty here!
+Different cities, similar customs. Of course, Berlin is not the only city where flats are offered on Airbnb.
+Berlin has by far the most Airbnb listings in Germany. In Munich, not even half as many flats (around 4 000) are advertised. Within Europe, only Paris (around 13 000) and London (around 11 000) have a larger choice in flats and rooms offered on Airbnb.
+Number of listings in other German cities
+Munich
+4 233
+offers
+Hamburg
+2 921
+offers
+Cologne
+2 997
+offers
+Frankfurt
+1 508
+offers
+A comparison of the number of Airbnb offers in the 20 largest cities in Germany yields interesting results. In the four most populated cities (Berlin, Hamburg, Munich und Cologne), there are significantly more than 1000 offers per city. (One Airbnb offer for every 300 to 700 residents) Cities like Frankfurt, Düsseldorf, Leipzig, Dresden, Hanover and Nuremberg offer 400 to 1000 rooms and flats. Here, there is one offer for every 800 to 12 000 residents. Smaller cities like Duisburg, Bochum, Wuppertal, and Bielefeld offer less than 100 rooms. That is equal to one offer per 5 000 to 13 000 residents.
+About these numbers
+The data for the Germany-wide comparison was taken on February 25, 2014 and consequently differs slightly from the data used above.
+Airbnb map of Germany
+Circle size indicates the number of offers. The subdivisions in each circle indicates the ratio between regular offers and potential professional offers.
+Look at the data
+Share this chart
+Share on facebook
+Share on twitter
+Share on tumblr
+Send per email
+Examining the number of flats which are supposedly offered by professional landlords yields mixed results. Offers by users who offer two or more flats are mainly found in the mid-sized cities among Germany's 20 largest cities. Hannover (60%) and Essen (52%) especially stand out in this respect. Munich (18%) and Wuppertal (15%) have the lowest percentages of possibly professional offers. Berlin – where 29% of all offers are made by “power users” – takes an average position in this ranking.
+Berlin
+Hamburg
+München
+Köln
+Frankfurt
+Stuttgart
+Düsseldorf
+Dortmund
+Essen
+Bremen
+Leipzig
+Dresden
+Hannover
+Nürnberg
+Duisburg
+Bochum
+Wuppertal
+Bielefeld
+Bonn
+Münster
+Number of offers per 100 000 population
+25
+50
+75
+100
+150
+200
+300
+350
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+Berlin
+Hamburg
+München
+Köln
+Frankfurt
+Stuttgart
+Düsseldorf
+Dortmund
+Essen
+Bremen
+Leipzig
+Dresden
+Hannover
+Nürnberg
+Duisburg
+Bochum
+Wuppertal
+Bielefeld
+Bonn
+Münster
+Airbnb listings in Germany
+This chart shows the amount of offers in the 20 biggest cities for each 100 000 inhabitants
+Look at the data
+Share this chart
+Share on facebook
+Share on twitter
+Share on tumblr
+Send per email
+Another interesing pattern emerges, when accounting for city size, that is looking at the number of offers per 100 000 population. Again, Berlin ranks first, however this time followed by Munich and also a number of smaller cities, notably Leipzig, Bonn and Münster. Other cities, such as Stuttgart, Dortmund or Wuppertal, which are not principal tourist destinations are offering significantly less Airbnb units in relation to their size.
+Did you like this article?
+Please support us and share this page via:
+Facebook
+Twitter
+Tumblr
+E-Mail
+About this project
+From Reading to Exploring – Visual Storytelling in Data Journalism
+The Data
+The data was queried through Airbnb's API on January 11, 2015, and February 25, 2015. Due to restrictions in the functionality of the API we cannot guarantee that the data set is complete. In using the API, only publicly available information was gathered. The data we used was entered and stored by Airbnb and its users and is therefore subject to the logic of the platform and its provider.
+The geolocations of the offers are subject to restrictions. Airbnb anonymizes the exact location of each flat by randomly assigning a coordinate within a 200 meter radius around its true position. As a result, two flats that appear to be at a close distance from one another can in fact be located in the same building. Moreover, the assignment to specific neighborhood boundaries (LORs) may lead to minor deviations. The assignment to streets is not affected.
+Link to
+Content
+Choropleth map
+Number of listings per neighborhood
+Price distribution
+Number of listings by price range
+Top 10 users
+Number of listings by power users
+Unit size
+Distribution of units by size
+Network map
+Location of listings of top 10 users
+Street map & chart
+Number of listings by street
+Title analysis
+Content of listing titles
+City comparison
+Number of listings for other German cities
+The Project
+This student project has been realized within the course "From Reading to Exploring – Visual Storytelling in Data Journalism" in the winter semester of 2014/15 at the Design Faculty at
+FH Potsdam
+. This page does not pursue any commercial or condemning purposes and has not been created on behalf of a lobby group or a competing business. The website, texts and visualizations were created by
+Alsino Skowronnek
+(
+@Alsinosko
+),
+Lucas Vogel
+(
+@soyvogelino
+) and
+Jonas Parnow
+(
+@zeto
+). The project was supervised by
+Jan-Erik Stange
+and
+Michael Hörz
+. Translation from the original German version was done by Niklaus Kemming. Proofreading and editing by Johannes Brandis. Tools and technologies used to create this page include CartoDB, Qgis, Gephi, Bootstrap, jQuery and C3 as well as Ruby, R and JavaScript.
+Imprint
+Responsible for this web page under § 6 of the German Telecommunications Code (Telemediengesetz) are Alsino Skowronnek, Lucas Vogel, and Jonas Parnow.
+We do not take responsibility for the content of external links. We have no influence on content and design of the websites linked to on this page and we explicitly distance ourselves from all links.
+Copyright
+This project and all data are published under a
+Creative Commons Attribution 4.0 International Public License
+.
+The background images are under the Copyright of
+Geoportal Berlin
+,
+André Freitas
+(
+unsplash.com
+) and the
+NASA Blue Marble Project
+. All Berlin geodata used with friendly permission from the
+Open Data Portal Berlin
+. The shapes for the Berlin circle line rail were provided by the
+OpenStreetMap
+community.

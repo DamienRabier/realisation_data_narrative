@@ -1,0 +1,5 @@
+input_file=polygons.txt
+N_words=856
+V_unique=332
+lexical_diversity=0.3878504673
+trigram_repetition=0.1135831382

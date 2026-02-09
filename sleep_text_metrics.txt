@@ -1,0 +1,5 @@
+input_file=sleep_extracted_text.txt
+N_words=3511
+V_unique=1245
+lexical_diversity=0.3545998291
+trigram_repetition=0.0330578512

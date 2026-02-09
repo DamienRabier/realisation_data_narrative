@@ -1,0 +1,5 @@
+input_file=dollar_street_extracted_text.txt
+N_words=169
+V_unique=120
+lexical_diversity=0.7100591716
+trigram_repetition=0.0119760479

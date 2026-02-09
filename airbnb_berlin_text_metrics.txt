@@ -1,0 +1,5 @@
+input_file=airbnb_berlin_extracted_text.txt
+N_words=4452
+V_unique=1330
+lexical_diversity=0.2987421384
+trigram_repetition=0.1298876404

@@ -1,0 +1,5 @@
+input_file=sam_kerr_extracted_text.txt
+N_words=3969
+V_unique=1145
+lexical_diversity=0.2884857647
+trigram_repetition=0.1177211999

@@ -1,0 +1,114 @@
+Year:
+Slavery
+1790
+1830
+1860
+Black Population
+1860
+1910
+1970
+2010
+â
+State Prisoners Per 100K People
+OFF
+1910
+1970
+2010
+Fed & State Prisoners per 100K people
+Jail Incarceration in 2010
+ALL
+Black Pop. Only
+Jail Incarceration was
+much lower
+in 1980. We've changed the color scale (see top legend) so that you can see the difference among states.
+U.S. Slavery in 1860
+size:
+SLAVE POPULATION
+color:
+Slave Population as % of Total
+color:
+Jail Inmates per 100K People
+The
+Pudding
+The Shape of Slavery
+Slavery Data/Mapping:
+Bill Rankin
+Code/Story:
+Matt Daniels
+Of all the stats about US prisons, Louisianaâs incarceration rate is among the most shocking. For every 100,000 residents, 868 are in state prison. That's 0.86% of Louisianaâs population, or nearly 1 in 100 (the worst among all states).
+This is what people must mean by mass incarceration.
+Instead of debating drug reform or systemic police discrimination, we want to understand prison rates historically. Inspired by Ava DuVernayâs documentary
+13th
+, we began with the idea that the Southâs approach to incarceration has its roots in slavery. Or more specifically, in the
+Jim Crow
+laws that targeted former slaves after the Civil War. These laws were eventually abolished, but we know that their legacy continues to the present day. Louisianaâs tragic incarceration rate is just one example among many.
+To take this one step further, we wanted to take a geographic angle: how do historic incarceration rates differ between slave states (especially in the Deep South) and non-slave states (the North)? Working with cartographer
+Bill Rankin
+, we dug up 150 years of census and incarceration data to find out.
+First, letâs take a look at the data for slavery.
+This is the state of slavery in 1860, just before the Civil War.
+Bubble size represent the number of people enslaved. Color shows slaves as a percent of total population (bright yellow = 90%+ slaves). One obvious observation: not all Southern states look the same. Some had a far greater proportion of slaves, and in some places (including much of rural Louisiana), they formed a majority. Another interesting feature is the bright curve that stretches from Louisiana to South Carolina, colloquially known as the
+Black Belt
+(take note â this will appear later).
+Black Pop. 2010
+Click to view
+Letâs fast-forward to present day. Today, the distribution of the black population in the South still shows many similarities with 1860. While the
+Great Migration
+saw a huge exodus of the black population out of the South, the Black Belt has yet to fade, and the rural South still bears the imprint of plantation agriculture. And for the formerly enslaved who didn't move north, their children's children are affected by the systems set up by the South a century ago.
+Prison Rate, 1910
+Click to view
+Letâs layer in incarceration rates in 1910, the earliest year for which we have reliable data. After the Civil War, the criminal-justice system set up by the South (that is White control / Jim Crow) targeted former slaves for petty crimes. Many of these illegitimately convicted “felons,” depending on state laws, lost their right to vote, and the result was a legal form of disenfranchisement. Ava DuVernay, in
+13th
+, also draws attention to the fact that the 13th amendment has a criminal loophole for slavery-like conditions: âNeither slavery nor involuntary servitude, except as a
+punishment for crime whereof the party shall have been duly convicted
+, shall exist within the United States.â Fifty years after the abolishment of slavery, notice how nine of the top 10 incarceration states were in the South (Louisiana is fourth).
+Prison Rate, 2010
+Click to view
+Today, the overall US rate of imprisonment is ten times higher. Yet the South still outpaces the North. The âtough on crimeâ stance of the 1980s and 1990s swelled a historically rigged criminal justice system. In Louisianaâs case, harsh sentencing laws acted as a multiplier; itâs one of the only states to mandate life in prison without parole for second-degree murder.
+And the same Jim Crowâesque disenfranchisement persists: today, 7.7% of the black population age 18 and over has lost their right to vote due to a conviction (
+Sentencing project
+). In Florida and Alabama, nearly a
+third
+of black men cannot vote (
+Human Rights Watch
+).
+Jail Data in 2010
+Click to view
+Letâs go one level deeper: short-term incarceration in jails rather than prisons, which is reported on a local rather than a state level. Bubble radius still shows the size of the black population; color shows the number of jail inmates (across all races) per 100,000 people. Again we see a similar pattern, with some of the highest levels of incarceration in Southern states, especially along the Black Belt. And this pattern is visible without filtering the data by race. This is as much about overall criminal-justice infrastructure as it is about racial disparity.
+Today, the debate surrounding race and incarceration is vast and complex. In 1910, they story was more straightforward, sometimes even more explicit. Even those who debate the role of systemic racism today have to face the obvious fact: we still see the shadow of the
+undeniable, institutionalized, strategic
+racism of the 100 years after the Civil War.
+We’re reminded of this Louis CK bit from Jay Leno:
+“You canât take peopleâs historical context away from them. Every year, white people add 100 years to how long ago slavery was. Iâve heard educated white people say slavery was 400 years ago. No it very wasnât. It was 140 years ago. Thatâs two 70-year-old ladies living and dying back-to-back. Thatâs how recently you could buy a guy. And itâs not like slavery ended and then everything has been amazingâ¦you gotta remember that if you meet a black person and they have grey hair, they remember a time when they werenât allowed to use a certain toilet.”
+And this perceived distance, or lack of it, is what gets obscured when debating incarceration stats for places like Louisiana. It’s like when you realize that
+Plessy v. Ferguson
+(separate but equal) went down only 15 years before Ronald Reagan was born. Or if you’re a Millennial, your parents were probably alive when Freedom Riders were fire-hosed in Birmingham, Alabama. Incarceration has context â it has a history â and its connection to slavery didn’t abruptly end with
+Brown v. Board of Education
+.
+The overriding narrative is that while weâre clearly not yet a post-racism society, America is only recently a post-
+slavery
+one. The historical distance just isn’t that great. And the ghosts of slavery are still very much visible today.
+Sources
+State incarceration data for 2010 is from BJS and exported via
+this tool
+. Pre-2010 is from
+this report
+.
+Jail incarceration data is scrapped from
+Vera
+.
+Population data is from
+NHGIS
+.
+Further Reading
+For more great reporting on this topic, I highly recommend checking out
+Ava Duvernayâs documentary 13th
+.
+Prison Policy Initiative
+also has one of the most robust collections of data on incarceration, yet not open source.
+Texas Tough
+by Robert Perkinson
+New Jim Crow
+by Michelle Alexander
+Angola and the Agony of Prison Reform
+by Robert Perkinson

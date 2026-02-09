@@ -1,0 +1,5 @@
+input_file=bowling.txt
+N_words=202
+V_unique=119
+lexical_diversity=0.5891089109
+trigram_repetition=0.0500000000

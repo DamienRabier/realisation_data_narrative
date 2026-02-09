@@ -1,0 +1,9 @@
+WEF Nexus Index
+The Water-Energy-Food (WEF) Nexus Index is a national-level composite indicator founded on 21 relevant indicators. This website provides a user-friendly visualisation of the index and an entry point into the underlying hierarchical dataset, including pillars (water, energy, and food), sub-pillars (access and availability), and the constituent indicators.
+Search for a country to see its profile
+Choose an indicator to see it on the map:
+WEF Nexus Index
+Water
+Energy
+Food
+Year

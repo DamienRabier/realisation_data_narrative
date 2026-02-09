@@ -1,0 +1,5 @@
+input_file=submarine_cable_map_extracted_text.txt
+N_words=2267
+V_unique=1092
+lexical_diversity=0.4816938685
+trigram_repetition=0.0379690949

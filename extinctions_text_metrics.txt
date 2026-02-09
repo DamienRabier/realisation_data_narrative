@@ -1,0 +1,5 @@
+input_file=extinctions_extracted_text.txt
+N_words=478
+V_unique=204
+lexical_diversity=0.4267782427
+trigram_repetition=0.2689075630

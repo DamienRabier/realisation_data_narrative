@@ -1,0 +1,5 @@
+input_file=machine_bias_extracted_text.txt
+N_words=4887
+V_unique=1338
+lexical_diversity=0.2737875998
+trigram_repetition=0.0569089048
